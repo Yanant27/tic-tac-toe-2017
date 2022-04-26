@@ -1,1 +1,1 @@
-This game was created for C++ practice of SSD(Back) team entry at DAT.
+This game was created for C++ knowledge test of SSD(Back) team at DAT.
